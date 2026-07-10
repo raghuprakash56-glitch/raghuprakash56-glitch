@@ -21,9 +21,9 @@
 ### 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,altium,arduino,git,github,vscode,linux"/>
+<img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer"/>
 </p>
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+
 ---
 
 ### 🚀 Currently Working On
