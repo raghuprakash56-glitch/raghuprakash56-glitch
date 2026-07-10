@@ -46,10 +46,7 @@
 ![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
-
+![Status](https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Currently%20Learning-Embedded%20Systems-blue?style=for-the-badge)
 ⭐ *"Learning • Building • Sharing"*
