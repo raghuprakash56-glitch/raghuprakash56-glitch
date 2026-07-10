@@ -21,7 +21,10 @@
 ### 💻 Tech Stack
 
 <p>
-<img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode,linux" />
+  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer"/>
+
 </p>
 
 ---
