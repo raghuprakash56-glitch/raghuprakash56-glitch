@@ -46,6 +46,6 @@
 ![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
-![](https://komarev.com/ghpvc/?username=raghuprakash56-glitch=for-the-badge)
+![](https://komarev.com/ghpvc/?username=raghuprakash56-glitch)
 
 ⭐ *"Learning • Building • Sharing"*
