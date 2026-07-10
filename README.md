@@ -70,9 +70,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghuprakash56-glitch/raghuprakash56&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghuprakash56-glitch&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghuprakash56-glitch/raghuprakash56&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghuprakash56-glitch&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -92,7 +92,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raghuprakash56-glitch&theme=tokyonight&margin-w=15"/>
 
 </p>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghuprakash56-glitch&theme=tokyo-night"/>
 
 </p>
 
