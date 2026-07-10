@@ -21,7 +21,7 @@
 ### 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=c,python,altium,arduino,git,github,vscode,linux"/>
 </p>
 
 ---
