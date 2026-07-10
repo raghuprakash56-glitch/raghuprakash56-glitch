@@ -22,8 +22,8 @@
 
 <p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode,linux" />
-  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer"/>
+  <img src="https://skillicons.dev/icons?i=c,python,arduino,git,github,vscode,linux" />
+  <img src="https://cdn.simpleicons." height="48" alt="Altium Designer"/>
 
 </p>
 
