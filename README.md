@@ -39,11 +39,11 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=white)
 
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=white)
 
 ---
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=for-the-badge)
