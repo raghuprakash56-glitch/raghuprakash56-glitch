@@ -46,7 +46,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=c,python,arduino,raspberrypi,git,github,vscode,linux"/>
 
 <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer"/>
 
