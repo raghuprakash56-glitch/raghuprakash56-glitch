@@ -46,6 +46,10 @@
 ![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
-![](https://komarev.com/ghpvc/?username=raghuprakash56-glitch)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
 
 ⭐ *"Learning • Building • Sharing"*
