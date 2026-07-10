@@ -70,9 +70,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/raghuprakash56-glitch/raghuprakash56-glitch&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghuprakash56-glitch/raghuprakash56-glitch&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/raghuprakash56-glitch/raghuprakash56-glitch&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghuprakash56-glitch/raghuprakash56-glitch&layout=compact&theme=tokyonight"/>
 
 </p>
 
