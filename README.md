@@ -43,7 +43,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokonight)
 
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=white)
+![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokonight)
 
 ---
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=for-the-badge)
