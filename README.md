@@ -1,55 +1,163 @@
-
-
-
+<div align="center">
 
 # Hi 👋, I'm Raghu Prakash
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Embedded+Systems+Developer;IoT+Enthusiast;PCB+Designer;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;IoT+Developer;PCB+Designer;ESP32+%7C+Raspberry+Pi+Enthusiast;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
-🎓 ECE Student @ Bannari Amman Institute of Technology
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuprakashh56/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
 
-💡 Passionate about **Embedded Systems, IoT, AI, PCB Design & Computer Vision**
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuprakashh56/)
+</div>
 
 ---
 
-### 💻 Tech Stack
+## 👨‍💻 About Me
 
-<p>
+🎓 Electronics & Communication Engineering Student  
+🏫 Bannari Amman Institute of Technology
+
+💡 Passionate about:
+- 🔹 Embedded Systems
+- 🔹 Internet of Things (IoT)
+- 🔹 PCB Design
+- 🔹 Artificial Intelligence
+- 🔹 Computer Vision
+
+🌱 **Currently Learning**
+- ESP32
+- Altium Designer
+- Embedded Linux
+- MQTT
+- Edge AI
+
+---
+
+## 🚀 Current Projects
+
+- 🐔 Smart Poultry Farm Monitoring System
+- ⚡ Smart Energy Meter PCB
+- 🤖 AI Carry-Back Avoidance System
+- 🦷 Smart Dental Kit
+
+---
+
+## 💻 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,arduino,git,github,vscode,linux" />
-  <img src="https://cdn.simpleicons." height="48" alt="Altium Designer"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,vscode,linux"/>
+
+<img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer"/>
 
 </p>
 
 ---
 
-### 🚀 Currently Working On
+## 🛠️ Tools & Technologies
 
-- 🐔 Smart Poultry Farm Monitoring System
-- ⚡ Smart Energy Meter PCB
-- 🤖 AI-Based Embedded Projects
+- ESP32
+- Raspberry Pi
+- Arduino
+- Altium Designer
+- Wokwi
+- MQTT
+- Node-RED
+- Git
+- GitHub
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokonight)
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokonight)
+</p>
 
 ---
-![Status](https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=for-the-badge)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge)
+## 🏆 GitHub Trophies
 
-![Learning](https://img.shields.io/badge/Currently%20Learning-Embedded%20Systems-blue?style=for-the-badge)
+<p align="center">
 
-⭐ *"Learning • Building • Sharing"*
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+⭐ Smart Poultry Farm Monitoring System
+
+⭐ Smart Energy Meter PCB
+
+⭐ AI Carry-Back Avoidance System
+
+⭐ Smart Dental Kit
+
+⭐ C Programming
+
+⭐ Embedded Systems Projects
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build 20+ Embedded Projects
+- 📟 Master PCB Design
+- 🤖 Learn Edge AI
+- 🌐 Contribute to Open Source
+- 🏆 Win National Hackathons
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/raghuprakashh56">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Quote
+
+*"Turning Ideas into Intelligent Embedded Systems."*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
