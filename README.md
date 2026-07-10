@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;IoT+Developer;PCB+Designer;ESP32+%7C+Raspberry+Pi+Enthusiast;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuprakashh56/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghuprakaash56@gmail.com)
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
 
 </div>
@@ -29,7 +29,7 @@
 - Altium Designer
 - Embedded Linux
 - MQTT
-- Edge AI
+  
 
 ---
 
@@ -62,7 +62,6 @@
 - Altium Designer
 - Wokwi
 - MQTT
-- Node-RED
 - Git
 - GitHub
 
@@ -116,23 +115,11 @@
 
 ⭐ Smart Energy Meter PCB
 
-⭐ AI Carry-Back Avoidance System
-
 ⭐ Smart Dental Kit
 
 ⭐ C Programming
 
 ⭐ Embedded Systems Projects
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build 20+ Embedded Projects
-- 📟 Master PCB Design
-- 🤖 Learn Edge AI
-- 🌐 Contribute to Open Source
-- 🏆 Win National Hackathons
 
 ---
 
