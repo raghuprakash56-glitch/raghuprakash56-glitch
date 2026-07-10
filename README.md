@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=800&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Raghu+Prakash;Electronics+%26+Communication+Engineer;Embedded+Systems+Enthusiast;IoT+%7C+AI+%7C+PCB+Design;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=GitHub-black&label=for-the-badge&labelColor=github&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraghuprakash56%2F)
+
 
 
 
