@@ -48,7 +48,7 @@
 
 <img src="https://skillicons.dev/icons?i=c,python,arduino,raspberrypi,git,github,vscode,linux"/>
 
-<img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" height="48" alt="Altium Designer"/>
+<img src="./assets/altium-designer.png" height="48" alt="Altium Designer"/>
 
 </p>
 
@@ -70,9 +70,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=raghuprakash56@-glitch&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=raghuprakash56-glitch&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
