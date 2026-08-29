@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm Raghu Prakash
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;IoT+Developer;PCB+Designer;ESP32+%7C+Raspberry+Pi+Enthusiast;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Embedded+Systems+Engineer;IoT+Developer;PCB+Designer;ESP32+%7C+Raspberry+Pi+Enthusiast;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuprakashh56/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghuprakaash56@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/raghuprakashh56/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:raghuprakaash56@gmail.com)
 
 </div>
 
@@ -13,31 +13,32 @@
 
 ## 👨‍💻 About Me
 
-🎓 Electronics & Communication Engineering Student  
+🎓 Electronics & Communication Engineering Student
 🏫 Bannari Amman Institute of Technology
 
 💡 Passionate about:
-- 🔹 Embedded Systems
-- 🔹 Internet of Things (IoT)
-- 🔹 PCB Design
-- 🔹 Artificial Intelligence
-- 🔹 Computer Vision
+
+* 🔹 Embedded Systems
+* 🔹 Internet of Things (IoT)
+* 🔹 PCB Design
+* 🔹 Artificial Intelligence
+* 🔹 Computer Vision
 
 🌱 **Currently Learning**
-- ESP32
-- Altium Designer
-- Embedded Linux
-- MQTT
-  
+
+* ESP32
+* Altium Designer
+* Embedded Linux
+* MQTT
 
 ---
 
 ## 🚀 Current Projects
 
-- 🐔 Smart Poultry Farm Monitoring System
-- ⚡ Smart Energy Meter PCB
-- 🤖 AI Carry-Back Avoidance System
-- 🦷 Smart Dental Kit
+* 🐔 Smart Poultry Farm Monitoring System
+* ⚡ Smart Energy Meter PCB
+* 🤖 AI Carry-Back Avoidance System
+* 🦷 Smart Dental Kit
 
 ---
 
@@ -55,17 +56,16 @@
 
 ## 🛠️ Tools & Technologies
 
-- ESP32
-- Raspberry Pi
-- Arduino
-- Altium Designer
-- Wokwi
-- MQTT
-- Git
-- GitHub
+* ESP32
+* Raspberry Pi
+* Arduino
+* Altium Designer
+* Wokwi
+* MQTT
+* Git
+* GitHub
 
 ---
-
 
 ## 🔥 GitHub Streak
 
@@ -77,13 +77,21 @@
 
 ---
 
-
-
 ## 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghuprakash56-glitch&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/raghuprakash56-glitch/raghuprakash56-glitch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </p>
 
@@ -112,14 +120,14 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/> 
+</a> 
 
-</p>
+</p> 
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 ### 💬 Quote
 
