@@ -87,11 +87,29 @@
 
 ---
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/raghuprakash56-glitch/raghuprakash56-glitch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/raghuprakash56-glitch/raghuprakash56-glitch/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/raghuprakash56-glitch/raghuprakash56-glitch/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/raghuprakash56-glitch/raghuprakash56-glitch/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
+
+</picture>
 
 </p>
 
