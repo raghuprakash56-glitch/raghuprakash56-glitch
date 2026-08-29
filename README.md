@@ -77,18 +77,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghuprakash56-glitch&theme=tokyo-night"/>
-
-</p>
-
----
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
